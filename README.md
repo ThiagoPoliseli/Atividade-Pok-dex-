@@ -1,2 +1,2 @@
-# Atividade-Pok-dex-
+# Atividade-Pokedex-
 Atividade utilizando pokedexapi
